@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm **Rohit Ghorpade**, a passionate data science 
  ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 ### **Web Development**
- ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B6B?style=flat-square&logo=streamlit&logoColor=white)
+ ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B6B?style=flat-square&logo=streamlit&logoColor=white)
 
 ### **Version Control & Collaboration**
  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
