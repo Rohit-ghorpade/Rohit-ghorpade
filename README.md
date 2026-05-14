@@ -6,9 +6,8 @@ Welcome to my GitHub profile! I'm **Rohit Ghorpade**, a passionate data science 
 ## 📖 About Me  
 
 - 🎓 **Education**:
-- **Second year Student**
+- **Final year Student**
 - **Bachelor of Computer Applications (BCA)** at **Aba Saheb Akade College** under **Savitribai Phule Pune University (SPPU)**.  
-- 💼 **Career Goal**: Transition from a **Data Analyst** to a **Data Scientist** in 3 years.  
 - 📍 **Preferred Job Location**: Pune, India.  
 - ✉️ **Contact**: [rohitghorpade098@gmail.com](mailto:rohitghorpade098@gmail.com).  
 - 🤝 **LinkedIn**: [Rohit Ghorpade](https://www.linkedin.com/in/rohit-ghorpade-32a139306/).  
